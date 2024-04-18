@@ -1,6 +1,7 @@
 @CvmuloSky
 
 <div id="header" align="center">
+  [My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,java)](https://skillicons.dev)
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100" height="25"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="25"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="25"/>
