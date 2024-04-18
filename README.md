@@ -4,7 +4,7 @@ Not letting LeetCode take me down. <br>
 <br>
 # Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,windows)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=rvscode)](https://skillicons.dev) ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CvmuloSky&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats))|
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,windows)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=rvscode)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CvmuloSky&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
 | ----------- | ------------- |
 
 # Currently...
