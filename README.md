@@ -20,4 +20,4 @@ Not letting LeetCode take me down. <br>
 - Analyzing patterns in visual eye disease using Pytorch
 - Analyzing Biomarkers to diagonose Parkinsons using Pytorch
 - Designing frontend websites
-- Congressional App Change
+- Congressional App Challange
