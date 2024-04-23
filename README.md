@@ -11,7 +11,7 @@ Not letting LeetCode take me down. <br>
 
 <br><br>
 # Statistics
-|![LeetCode Stats](https://leetcard.jacoblin.cool/nathannnguyen162?theme=dark)| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CvmuloSky&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+|![LeetCode Stats](https://leetcard.jacoblin.cool/nathannnguyen162?ext=heatmap)| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CvmuloSky&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 | ----------- | ------------- |
 
 # Currently...
