@@ -18,6 +18,5 @@ Not letting LeetCode take me down. <br>
 
 - Learning Data Structures and Algorithms
 - Analyzing patterns in visual eye disease using Pytorch
-- Analyzing Biomarkers to diagonose Parkinsons using Pytorch
-- Designing frontend websites
+- Analyzing Biomarkers to diagnose Parkinsons using Pytorch
 - Congressional App Challange
