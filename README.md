@@ -17,6 +17,4 @@ Not letting LeetCode take me down. <br>
 # Currently...
 
 - Learning Data Structures and Algorithms
-- Analyzing patterns in visual eye disease using Pytorch
-- Analyzing Biomarkers to diagnose Parkinsons using Pytorch
-- Congressional App Challange
+- Analyzing patterns in voice
