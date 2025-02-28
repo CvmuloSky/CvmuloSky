@@ -1,20 +1,51 @@
-# Hola me llamo Nathan! 👋👋 <br>
-Aspiring and beginner developer - intrigued by algorithms. <br>
-Not letting LeetCode take me down. <br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6272A4&center=true&vCenter=true&width=435&lines=Hola%2C+me+llamo+Nathan!+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
-<br>
+<p align="center">
+  <em>Aspiring and beginner developer - intrigued by algorithms.</em> <br>
+  <em>Not letting LeetCode take me down.</em>
+</p>
 
-# Languages and Tools:
+---
 
-| [![My Skills](https://skillicons.dev/icons?i=js,html,css,xd,py,java,vscode)](https://skillicons.dev) <br> [![My Skills](https://skillicons.dev/icons?i=windows,linux,lua,robloxstudio,discord)](https://skillicons.dev)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CvmuloSky&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
-| ----------- | ------------- |
+## 🛠️ Languages and Tools
 
-<br><br>
-# Statistics
-|![LeetCode Stats](https://leetcard.jacoblin.cool/nathannnguyen162?ext=heatmap)| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CvmuloSky&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-| ----------- | ------------- |
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=js,html,css,xd,py,java,vscode" alt="Skills" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=windows,linux,lua,robloxstudio,discord" alt="Skills" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CvmuloSky&theme=tokyonight&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-# Currently...
+---
+
+## 📊 Statistics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://leetcard.jacoblin.cool/nathannnguyen162?ext=heatmap" alt="LeetCode Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=CvmuloSky&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🔭 Currently...
 
 - Learning Data Structures and Algorithms
 - Analyzing patterns in voice
