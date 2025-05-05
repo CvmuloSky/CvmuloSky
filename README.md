@@ -19,7 +19,7 @@
         <br>
         <img src="https://skillicons.dev/icons?i=windows,linux,lua,robloxstudio,discord,typescript,next" alt="Skills" />
         <br>
-        <img src="https://skillicons.dev/icons?i=react,godot" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=react,godot,supabase,tailwind" alt="Skills" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CvmuloSky&theme=tokyonight&layout=compact" alt="Top Languages" />
